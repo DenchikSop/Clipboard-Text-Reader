@@ -6,7 +6,8 @@ You can download the latest version here:
 # 📋 Clipboard Text Reader
 
 A small utility that reads text from the clipboard aloud.  
-Designed for use with subtitle OCR tools like **LunaTranslator**.
+Designed for use with subtitle OCR tools like **LunaTranslator**. > 📌(https://docs.lunatranslator.org/en/)
+
 
 ---
 
