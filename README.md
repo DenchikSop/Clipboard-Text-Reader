@@ -11,7 +11,7 @@ Designed for use with subtitle OCR tools like **LunaTranslator**. > 📌(https:/
 
 ---
 
-## 🇬🇧 How I use it
+## How I use it
 
 I use this program together with **LunaTranslator**, which captures subtitles from the screen using OCR and copies them to the clipboard.
 
