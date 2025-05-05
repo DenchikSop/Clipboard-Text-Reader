@@ -2,6 +2,7 @@
 
 You can download the latest version here:  
 👉 [📥 Download Clipboard Text Reader (RAR file)](https://drive.google.com/file/d/1Sc2W-eWm5jo6GIqzHVCfGfiO80IdBgk7/view?usp=sharing)
+🎯 The program is written in Python. The archive includes the source code — feel free to modify and improve it as you like.
 
 # 📋 Clipboard Text Reader
 
@@ -39,6 +40,7 @@ So I built a tool to help — it reads subtitles out loud automatically.
 ---
 
 ## 🇷🇺 Описание на русском
+> 🎯 Программа написана на Python. В архиве прилагается исходный код — можно дорабатывать и улучшать.
 
 Маленькая программа для озвучивания текста из буфера обмена.  
 Отлично работает в связке с **LunaTranslator** (распознаёт субтитры с экрана и копирует в буфер).
