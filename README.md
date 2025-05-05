@@ -22,7 +22,7 @@ So I created my own tool to solve that.
 ### Steps:
 1. Launch LunaTranslator, set the screen capture area, enable OCR, and clipboard output.
 2. Run **Clipboard Text Reader**, press **Start/Stop**.  
-   After stopping, new text from the clipboard will be read — not the previous one.
+   After stop/start, new text from the clipboard will be read — not the previous one.
 
 ### Features:
 - Smart text filtering: avoids repeating the same lines.
@@ -50,7 +50,7 @@ So I built a tool to help — it reads subtitles out loud automatically.
 ### Как пользоваться:
 1. Запускаем LunaTranslator: настраиваем захват экрана, включаем OCR и вывод текста в буфер.
 2. Запускаем эту программу, нажимаем **Старт/Стоп**.
-   После паузы программа начнёт читать **новый** текст, а не старый.
+   После стоп/старт программа начнёт читать **новый** текст, а не старый.
 
 ### Возможности:
 - Умное сравнение текста, чтобы не повторялся.
