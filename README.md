@@ -1,7 +1,7 @@
 ## 📦 Download
 
 You can download the latest version here:  
-👉 [📥 Download Clipboard Text Reader (RAR file)](https://drive.google.com/file/d/1Sc2W-eWm5jo6GIqzHVCfGfiO80IdBgk7/view?usp=sharing)
+👉 [📥 Download Clipboard Text Reader (RAR file)](https://drive.google.com/file/d/1asTwDvQ5jPiwClSsXSo6Ex_iqM5WrzTQ/view?usp=sharing)
 🎯 The program is written in Python. The archive includes the source code — feel free to modify and improve it as you like.
 
 # 📋 Clipboard Text Reader
